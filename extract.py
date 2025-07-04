@@ -33,7 +33,5 @@ def save_combined_text(input_folder, output_file="support_docs.txt"):
     print(f"\n Extracted text saved to {output_file}")
 
 if __name__ == "__main__":
-    # Replace this with your folder containing PDFs and DOCX files
-    # folder = "documents"
     folder = r"C:\dheeraj_work\RAG_chatbot\documents\Insurance PDFs"
     save_combined_text(folder)

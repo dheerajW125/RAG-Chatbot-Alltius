@@ -17,4 +17,4 @@ embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-Mi
 faiss_index = FAISS.from_texts(chunks, embedding_model)
 faiss_index.save_local("faiss_index")
 
-print("✅ FAISS index built and saved.")
+print(" FAISS index built and saved.")
