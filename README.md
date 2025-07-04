@@ -28,8 +28,6 @@ This project implements a chatbot that can:
     python app.py
 
 
-## Deployment
 
-You can deploy to Hugging Face Spaces or any other cloud platform.
 
 
