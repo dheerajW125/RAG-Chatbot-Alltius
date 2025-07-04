@@ -15,6 +15,7 @@ This project implements a chatbot that can:
 ## Setup
 
 1. Clone the repo:
+    https://github.com/dheerajW125/RAG-Chatbot-Alltius.git
 
 
 2. Install dependencies:
