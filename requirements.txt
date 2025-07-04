@@ -1,0 +1,10 @@
+langchain
+langchain-community
+openai
+faiss-cpu
+gradio
+PyMuPDF
+python-docx
+ sentence-transformers 
+ faiss-cpu 
+requests
